@@ -1,0 +1,2 @@
+SALUDO = "Hola";
+disp(SALUDO);
